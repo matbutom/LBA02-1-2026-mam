@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Recreacion esquematica de Ninety Parallel Sinusoids</title>
+  <desc id="desc">Parallel sine waves inspired by A. Michael Noll's Ninety Parallel Sinusoids with Linearly-Increasing Period.</desc>
+  <rect width="1000" height="700" fill="#f9f9f7"/>
+  <rect x="110" y="75" width="780" height="550" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <defs>
+    <clipPath id="frame">
+      <rect x="110" y="75" width="780" height="550"/>
+    </clipPath>
+    <path id="sine" d="M0 0 Q20 -18 40 0 T80 0 T120 0 T160 0 T200 0 T240 0 T280 0 T320 0 T360 0 T400 0 T440 0 T480 0 T520 0 T560 0 T600 0 T640 0 T680 0 T720 0 T760 0 T800 0 T840 0 T880 0 T920 0 T960 0 T1000 0 T1040 0 T1080 0 T1120 0 T1160 0 T1200 0 T1240 0 T1280 0 T1320 0 T1360 0 T1400 0 T1440 0 T1480 0 T1520 0"/>
+  </defs>
+  <g clip-path="url(#frame)" stroke="#111111" stroke-width="1.4" fill="none" stroke-linecap="round">
+    <g transform="translate(110 100)"><use href="#sine" transform="scale(0.70 1)"/></g>
+    <g transform="translate(110 112)"><use href="#sine" transform="scale(0.72 1)"/></g>
+    <g transform="translate(110 124)"><use href="#sine" transform="scale(0.74 1)"/></g>
+    <g transform="translate(110 136)"><use href="#sine" transform="scale(0.76 1)"/></g>
+    <g transform="translate(110 148)"><use href="#sine" transform="scale(0.78 1)"/></g>
+    <g transform="translate(110 160)"><use href="#sine" transform="scale(0.80 1)"/></g>
+    <g transform="translate(110 172)"><use href="#sine" transform="scale(0.82 1)"/></g>
+    <g transform="translate(110 184)"><use href="#sine" transform="scale(0.84 1)"/></g>
+    <g transform="translate(110 196)"><use href="#sine" transform="scale(0.86 1)"/></g>
+    <g transform="translate(110 208)"><use href="#sine" transform="scale(0.88 1)"/></g>
+    <g transform="translate(110 220)"><use href="#sine" transform="scale(0.90 1)"/></g>
+    <g transform="translate(110 232)"><use href="#sine" transform="scale(0.92 1)"/></g>
+    <g transform="translate(110 244)"><use href="#sine" transform="scale(0.94 1)"/></g>
+    <g transform="translate(110 256)"><use href="#sine" transform="scale(0.96 1)"/></g>
+    <g transform="translate(110 268)"><use href="#sine" transform="scale(0.98 1)"/></g>
+    <g transform="translate(110 280)"><use href="#sine" transform="scale(1.00 1)"/></g>
+    <g transform="translate(110 292)"><use href="#sine" transform="scale(1.02 1)"/></g>
+    <g transform="translate(110 304)"><use href="#sine" transform="scale(1.04 1)"/></g>
+    <g transform="translate(110 316)"><use href="#sine" transform="scale(1.06 1)"/></g>
+    <g transform="translate(110 328)"><use href="#sine" transform="scale(1.08 1)"/></g>
+    <g transform="translate(110 340)"><use href="#sine" transform="scale(1.10 1)"/></g>
+    <g transform="translate(110 352)"><use href="#sine" transform="scale(1.12 1)"/></g>
+    <g transform="translate(110 364)"><use href="#sine" transform="scale(1.14 1)"/></g>
+    <g transform="translate(110 376)"><use href="#sine" transform="scale(1.16 1)"/></g>
+    <g transform="translate(110 388)"><use href="#sine" transform="scale(1.18 1)"/></g>
+    <g transform="translate(110 400)"><use href="#sine" transform="scale(1.20 1)"/></g>
+    <g transform="translate(110 412)"><use href="#sine" transform="scale(1.22 1)"/></g>
+    <g transform="translate(110 424)"><use href="#sine" transform="scale(1.24 1)"/></g>
+    <g transform="translate(110 436)"><use href="#sine" transform="scale(1.26 1)"/></g>
+    <g transform="translate(110 448)"><use href="#sine" transform="scale(1.28 1)"/></g>
+    <g transform="translate(110 460)"><use href="#sine" transform="scale(1.30 1)"/></g>
+    <g transform="translate(110 472)"><use href="#sine" transform="scale(1.32 1)"/></g>
+    <g transform="translate(110 484)"><use href="#sine" transform="scale(1.34 1)"/></g>
+    <g transform="translate(110 496)"><use href="#sine" transform="scale(1.36 1)"/></g>
+    <g transform="translate(110 508)"><use href="#sine" transform="scale(1.38 1)"/></g>
+    <g transform="translate(110 520)"><use href="#sine" transform="scale(1.40 1)"/></g>
+    <g transform="translate(110 532)"><use href="#sine" transform="scale(1.42 1)"/></g>
+    <g transform="translate(110 544)"><use href="#sine" transform="scale(1.44 1)"/></g>
+    <g transform="translate(110 556)"><use href="#sine" transform="scale(1.46 1)"/></g>
+    <g transform="translate(110 568)"><use href="#sine" transform="scale(1.48 1)"/></g>
+    <g transform="translate(110 580)"><use href="#sine" transform="scale(1.50 1)"/></g>
+    <g transform="translate(110 592)"><use href="#sine" transform="scale(1.52 1)"/></g>
+    <g transform="translate(110 604)"><use href="#sine" transform="scale(1.54 1)"/></g>
+  </g>
+  <text x="500" y="655" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#333333">Recreacion esquematica inspirada en A. Michael Noll, Ninety Parallel Sinusoids with Linearly-Increasing Period (1964)</text>
+</svg>

@@ -1,6 +1,9 @@
 # LBA02-1-2026-mam
 curso laboratorio A - Christian Oyarzún
 
+Profesor: Christian Oyarzun Roa
+Correo: coyarzun@error404.cl
+
 ## Clases
 
 | Clase | Fecha | Carpeta |

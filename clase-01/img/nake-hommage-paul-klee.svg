@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Recreacion esquematica de Hommage a Paul Klee</title>
+  <desc id="desc">Grid, vertical subdivisions and circles inspired by Frieder Nake's Hommage a Paul Klee.</desc>
+  <rect width="900" height="900" fill="#f6f0df"/>
+  <rect x="90" y="90" width="720" height="720" fill="#f8f3e5" stroke="#111111" stroke-width="4"/>
+
+  <g stroke="#111111" stroke-width="2" fill="none">
+    <line x1="90" y1="150" x2="810" y2="150"/>
+    <line x1="90" y1="215" x2="810" y2="215"/>
+    <line x1="90" y1="276" x2="810" y2="276"/>
+    <line x1="90" y1="345" x2="810" y2="345"/>
+    <line x1="90" y1="412" x2="810" y2="412"/>
+    <line x1="90" y1="477" x2="810" y2="477"/>
+    <line x1="90" y1="548" x2="810" y2="548"/>
+    <line x1="90" y1="625" x2="810" y2="625"/>
+    <line x1="90" y1="694" x2="810" y2="694"/>
+    <line x1="90" y1="758" x2="810" y2="758"/>
+
+    <line x1="142" y1="90" x2="142" y2="810"/>
+    <line x1="188" y1="90" x2="188" y2="810"/>
+    <line x1="257" y1="90" x2="257" y2="810"/>
+    <line x1="318" y1="90" x2="318" y2="810"/>
+    <line x1="374" y1="90" x2="374" y2="810"/>
+    <line x1="447" y1="90" x2="447" y2="810"/>
+    <line x1="512" y1="90" x2="512" y2="810"/>
+    <line x1="569" y1="90" x2="569" y2="810"/>
+    <line x1="638" y1="90" x2="638" y2="810"/>
+    <line x1="701" y1="90" x2="701" y2="810"/>
+    <line x1="758" y1="90" x2="758" y2="810"/>
+  </g>
+
+  <g stroke="#111111" stroke-width="2.5" fill="none">
+    <circle cx="188" cy="150" r="22"/>
+    <circle cx="318" cy="215" r="31"/>
+    <circle cx="569" cy="215" r="17"/>
+    <circle cx="701" cy="276" r="26"/>
+    <circle cx="257" cy="345" r="18"/>
+    <circle cx="447" cy="412" r="34"/>
+    <circle cx="758" cy="412" r="21"/>
+    <circle cx="142" cy="477" r="28"/>
+    <circle cx="512" cy="548" r="19"/>
+    <circle cx="638" cy="625" r="37"/>
+    <circle cx="374" cy="694" r="24"/>
+    <circle cx="701" cy="758" r="16"/>
+  </g>
+
+  <g stroke="#111111" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M122 162 C160 132, 180 181, 214 150"/>
+    <path d="M282 220 C320 184, 350 248, 386 214"/>
+    <path d="M528 552 C565 517, 595 580, 622 548"/>
+    <path d="M613 630 C660 585, 682 669, 714 625"/>
+  </g>
+
+  <g fill="#111111">
+    <circle cx="142" cy="150" r="5"/>
+    <circle cx="257" cy="215" r="5"/>
+    <circle cx="447" cy="276" r="5"/>
+    <circle cx="638" cy="345" r="5"/>
+    <circle cx="374" cy="477" r="5"/>
+    <circle cx="758" cy="548" r="5"/>
+    <circle cx="188" cy="625" r="5"/>
+    <circle cx="512" cy="758" r="5"/>
+  </g>
+
+  <text x="450" y="850" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#333333">Recreacion esquematica inspirada en Frieder Nake, Hommage a Paul Klee, 13/9/65 Nr.2 (1965)</text>
+</svg>
